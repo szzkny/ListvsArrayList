@@ -1,0 +1,15 @@
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\bin\Debug\net6.0\ListvsArrayList.exe
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\bin\Debug\net6.0\ListvsArrayList.deps.json
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\bin\Debug\net6.0\ListvsArrayList.runtimeconfig.json
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\bin\Debug\net6.0\ListvsArrayList.dll
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\bin\Debug\net6.0\ListvsArrayList.pdb
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.csproj.AssemblyReference.cache
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.AssemblyInfoInputs.cache
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.AssemblyInfo.cs
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.csproj.CoreCompileInputs.cache
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.dll
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\refint\ListvsArrayList.dll
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.pdb
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ListvsArrayList.genruntimeconfig.cache
+C:\Users\szabina.zekany\Desktop\ListvsArrayList\ListvsArrayList\obj\Debug\net6.0\ref\ListvsArrayList.dll
